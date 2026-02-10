@@ -100,4 +100,4 @@ A secure identity verification system designed for rural communities to access g
 2. THE System SHALL support multiple local languages common in rural communities
 3. WHEN users need help, THE System SHALL provide clear, step-by-step instructions with visual aids
 4. THE System SHALL accommodate users with visual or hearing impairments through accessibility features
-5. THE System SHALL complete the entire verification process in no more than 5 user interactions
+5. THE System SHALL complete the entire verification process in no more than five user interactions
